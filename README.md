@@ -20,7 +20,7 @@ Generated a structured dataset of IKEA products that can be used for data analys
 
 - Navigates dynamically loaded product pages with Selenium
 - Extracts structured product data using BeautifulSoup
-- Outputs results in CSV format with Pandas
+- Outputs results in CSV format with Pandas or you can export it with xlsx format
 
 ## How to Use
 
