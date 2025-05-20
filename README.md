@@ -22,6 +22,8 @@ Generated a structured dataset of IKEA products that can be used for data analys
 - Extracts structured product data using BeautifulSoup
 - Outputs results in CSV format with Pandas or you can export it with xlsx format
 
+Let me know if you'd like a version that includes images or data preview examples too.
+
 ## How to Use
 
 ```bash
@@ -30,6 +32,3 @@ cd ikea_products
 pip install -r requirements.txt
 python ikea_scraper.py
 
----
-
-Let me know if you'd like a version that includes images or data preview examples too.
