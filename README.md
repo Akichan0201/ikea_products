@@ -29,3 +29,7 @@ git clone https://github.com/Akichan0201/ikea_products.git
 cd ikea_products
 pip install -r requirements.txt
 python ikea_scraper.py
+
+---
+
+Let me know if you'd like a version that includes images or data preview examples too.
